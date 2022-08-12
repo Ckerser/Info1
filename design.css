@@ -1,0 +1,44 @@
+
+.navbar {
+    border-style: 1px solid black;
+    height: 60px;
+}
+li {
+    display: inline;
+
+}
+
+li a {
+    padding: 20px;
+    background-color: pink;
+    text-decoration: none;
+    height: 300px;
+}
+
+.introandinfo{
+    display:flex;
+}
+
+.introduction {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    background-color:violet;
+    height: 500px;
+    width: 500px;
+    text-align: center;
+}
+
+.information{
+    height: 500px;
+    width: 500px;
+    background-color: fuchsia;
+}
+
+.bottom {
+    height: 80px;
+    width: 1000px;
+    background-color:bisque;
+}
+
+
